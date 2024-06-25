@@ -6,6 +6,6 @@
 
 ## Details Screen
 
-#in details screen no body or image exist because api send it with null
+in details screen no body or image exist because api send it with null
 
 <img src="https://github.com/MichaelMmdohAtef/simple_news_app/assets/77991985/2a6851d5-1c74-433d-8bc5-97f13ee3cc11" width="400" height="600"/> 
